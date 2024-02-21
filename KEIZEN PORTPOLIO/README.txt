@@ -23,4 +23,3 @@ Credits :
 => Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/
 => Carousel : http://owlgraphic.com/owlcarousel/
 
-https://keizenchaniel.github.io/keizen_portolio/
